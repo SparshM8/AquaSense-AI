@@ -2,6 +2,31 @@
 
 > SDG 6 · Clean Water and Sanitation | SDG 11 · Sustainable Cities | SDG 12 · Responsible Consumption
 
+## Project Overview
+
+**Problem Statement:**  
+Many households, campuses, and municipal bodies lack awareness of their daily water consumption patterns. This leads to unintentional water wastage and undetected leakages, severely draining precious clean water resources and increasing costs.  
+*Design Thinking Format:* "How might we use AI to track and predict daily water usage so that households and campuses can become more sustainable?"
+
+**AI Solution:**  
+AquaSense AI is a smart monitoring platform that tracks and analyzes water usage. It utilizes a **Linear Regression** model to predict future consumption trends, allowing users to plan ahead. Additionally, it features an **Isolation Forest** anomaly detection model that automatically flags unusual water usage spikes to identify potential hidden leakages early.
+
+**Target Users:**  
+*   Individuals and Households
+*   Campus Administrators and Facility Managers
+*   Local Municipal Bodies
+
+**Expected Impact:**  
+If implemented on a large scale (e.g., across a college campus or a residential society), the solution will shift water management from a reactive approach (paying high bills after a leak) to a proactive approach (preventing waste before it happens). Consumers benefit economically, administrators can quickly dispatch maintenance, and the environment benefits from thousands of liters of conserved water.
+
+**Responsible AI Considerations:**  
+*   **Fairness:** The AI models rely purely on objective consumption metrics, completely avoiding demographic bias.
+*   **Transparency:** The dashboard clearly visualizes the data and provides understandable reasons when an anomaly is flagged.
+*   **Ethics:** Empowers users with awareness to promote conservation, rather than penalizing them.
+*   **Privacy:** User consumption logs and location data are kept strictly secure.
+
+---
+
 ## Tech Stack
 - **Frontend** – React 18 + Vite, Tailwind CSS, Recharts, Axios, React Router
 - **Backend** – Node.js, Express.js, JWT Auth
