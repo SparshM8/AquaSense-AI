@@ -1,0 +1,14 @@
+node_modules/
+.env
+__pycache__/
+venv/
+env/
+.venv/
+.DS_Store
+*.log
+.idea/
+.vscode/
+build/
+dist/
+coverage/
+*.pdf

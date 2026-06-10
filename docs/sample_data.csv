@@ -1,0 +1,16 @@
+date,liters,location,department,notes
+2026-05-01,2450,Block A Floor 1,Facilities,Normal weekday
+2026-05-02,3100,Block A Floor 2,Facilities,Extra staff
+2026-05-03,1850,Cafeteria,Cafeteria,Weekend
+2026-05-04,1920,Admin Block,Administration,Weekend
+2026-05-05,2780,Block B,Facilities,Normal
+2026-05-06,2640,Sports Complex,Sports,Training day
+2026-05-07,2990,Block A Floor 1,Facilities,Normal
+2026-05-08,3200,Cafeteria,Cafeteria,Event day
+2026-05-09,2510,Block B,Facilities,Normal
+2026-05-10,4120,Block A Floor 2,Facilities,Leak suspected
+2026-05-11,2400,Admin Block,Administration,Normal
+2026-05-12,2300,Block A Floor 1,Facilities,Normal
+2026-05-13,2880,Block B,Facilities,Normal
+2026-05-14,3050,Cafeteria,Cafeteria,Normal
+2026-05-15,2750,Sports Complex,Sports,Match day
